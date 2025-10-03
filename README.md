@@ -1,34 +1,36 @@
-# 👋 Hi, I'm Jan Neo P. Roque  
+# 👋 Hi, I'm Jerica P. Sevilla  
 
-Welcome to my GitHub profile! 🚀  
-I’m passionate about **software development, problem solving, and building projects that make an impact**.  
-
----
-
-## 🔥 About Me
-- 🎓 I'm a 20 year old **Data Science student** at CCST-BPSU Main
-- 📚 Currently learning more about **algorithms, data structures, and AI**
-- 🎯 Goal: To create innovative apps and systems for real-world use
-- ⚡ Fun fact: I enjoy learning by creating projects and experimenting with new tech!
+🎓 *Section:* Data Science 3  
+📚 *Course:* Bachelor of Science in Data Science at Bataan Peninsula State University  
 
 ---
 
-## 🛠️ Tech Stack
-### Languages & Frameworks
-- **C# | Python | JavaScript | HTML | CSS | SQL**  
-- **.NET | Flask | Node.js**
-
-### Tools & Platforms
-- Git & GitHub  
-- Visual Studio | VS Code  
-- MySQL | MongoDB  
+## 🌟 About Me
+- 💡 A passionate learner who enjoys solving problems and exploring new knowledge.  
+- 🎯 My first choice of course was *Accountancy and Civil Engineering*, but since the slots were full, I reconsidered and found my path in *Data Science*. This field opened new opportunities for me to grow my skills and apply critical learning.  
+- ✨ I value resourcefulness, adaptability, and continuous self-improvement.  
 
 ---
 
-## 🤝 Connect with Me
-- 📧 Email: **roqueneo6@gmail.com**  
-
+## 🎶 Hobbies
+- 📖 Reading  
+- 🗂️ Compiling and organizing things  
+- 🧩 Solving problems  
+- 🎤 Singing  
 
 ---
 
-⭐️ From [janneoroque](https://github.com/janneoroque)
+## 🛠️ Skills
+- 🧾 Bookkeeping  
+- 🔍 Resourceful and detail-oriented  
+- 🧠 Critical learning  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [@your-username](https://github.com/your-username)  
+- Email: your-email@example.com  
+
+---
+
+✨ “The path may change, but the goal to learn and grow remains the same.”
