@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jerica P. Sevilla  
 
-🎓 **Section:** Data Science 3  
-📚 **Course:** Bachelor of Science in Data Science at Bataan Peninsula State University  
+🎓 **Section:** DS3  
+📚 **Course:** Bachelor of Science in Data Science at Bataan Peninsula State University-Main Campus 
 
 ---
 
